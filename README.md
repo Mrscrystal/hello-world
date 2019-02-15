@@ -2,10 +2,10 @@
 
 我的github的第一个简单页面
 
-Infomation
+概述
 
 
-我想用github建立一个简单的repository。
+我想用github建立一个简单的repository
 
 主要内容有以下几方面
 
@@ -19,5 +19,4 @@ Infomation
 
 5.来个个人主页吧~
 
-That's all 
-目前暂时就想到这些
+6.分享一些学到的新的概念、技巧、知识等
